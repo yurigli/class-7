@@ -1,1 +1,2 @@
-print("Hello world12")
+print("hell0-world")
+print("1")
